@@ -80,14 +80,18 @@
 | **테스트** | Jest, Detox, MSW                                                                                 |
 | **Linting** | ESLint & Prettier                                                                               |
 
+
 ### Backend
-| 기술            | 상세 내용         |
-|-----------------|------------------|
-| **프레임워크**   | Spring Framework |
-| **DB**          | MySQL            |
-| **API 문서화**   | Swagger          |
-| **테스트 도구**  | Postman          |
-| **배포 환경**    | CloudType        |
+| 기술              | 상세 내용                        |
+|-------------------|----------------------------------|
+| **프레임워크**     | Spring Framework                |
+| **DB**            | MySQL                           |
+| **API 문서화**     | Swagger                         |
+| **테스트 도구**    | Postman                         |
+| **배포 환경**      | CloudType                       |
+| **SMS 서비스**     | CoolSmsServiceAPI               |
+| **지도 서비스**    | NaverMapAPI                     |
+| **파일 저장소**    | Amazon S3                       |
 
 ---
 
